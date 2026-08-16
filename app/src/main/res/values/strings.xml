@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Evaluacion 1</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="picarones">Picarones</string>
+    <string name="patel_choclo">Pastel de Choclo</string>
+    <string name="cant">Cant:</string>
+    <string name="comida">Comida</string>
+    <string name="propina">Propina</string>
+    <string name="total">TOTAL</string>
+    <string name="cero">$0</string>
+    <string name="cero_2">0</string>
+    <string name="restaurant">Restaurant</string>
+</resources>
